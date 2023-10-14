@@ -9,5 +9,3 @@ Kodluyoruz CSS dersinin son ödevinde bizlere verilmiş olan Google Ana Sayfa ta
 5. Fotter kısmında list noktaları kaldırılıp background color değiştirildi.
 
 Bizden istenilen adımları tek tek yaparak tasarımı olduğunca Google Ana Sayfasına benzettim.
-
-![alt text for screen readers](/assets/web_gorunum.png "Text to show on mouseover")
